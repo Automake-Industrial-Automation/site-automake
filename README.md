@@ -1,0 +1,2 @@
+# site-automake
+Site corporativo
